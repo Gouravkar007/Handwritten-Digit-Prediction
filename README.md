@@ -2,6 +2,8 @@
 
     This project is a deep learning–based handwritten digit recognition system built using Python and TensorFlow. The model is trained on the MNIST dataset and can accurately predict digits (0–9) from grayscale images. A simple web-based user interface allows users to upload handwritten digit images and receive instant predictions.
 
+---
+
 Key Features
 
     Trained a Convolutional Neural Network (CNN) for digit classification
@@ -13,6 +15,8 @@ Key Features
     Includes an interactive UI for real-time digit prediction
 
     End-to-end pipeline from data preprocessing to deployment
+
+---
 
 Tech Stack
 
@@ -26,6 +30,8 @@ Tech Stack
 
     Libraries: NumPy, Pillow, Matplotlib
 
+---
+
 How It Works
 
     Handwritten digit images are converted to grayscale and resized to 28×28 pixels
@@ -36,6 +42,8 @@ How It Works
 
     The UI displays the predicted digit along with the uploaded image
 
+---
+
 Use Cases
 
     Learning and understanding CNN-based image classification
@@ -44,7 +52,9 @@ Use Cases
 
     Beginner-friendly deep learning application
 
-Foundation for OCR and handwriting recognition systems
+    Foundation for OCR and handwriting recognition systems
+
+---
 
 1. Step-by-Step Setup Instructions:
    Clone the Repository - Git commands to download the repo
@@ -63,6 +73,8 @@ Foundation for OCR and handwriting recognition systems
    Launch and run the training notebook
    Train the model from scratch
    Run the GUI Application - Instructions to launch the interactive GUI
+
+---
 
 2. Additional Notes
    Prerequisites for running the GUI (digit_model.h5 file)
