@@ -1,10 +1,10 @@
 # Handwritten Digit Recognition System
 
->     This project is a deep learning–based handwritten digit recognition system built using Python and TensorFlow. The model is trained on the MNIST dataset and can accurately predict digits (0–9) from grayscale images. A simple web-based user interface allows users to upload handwritten digit images and receive instant predictions.
+This project is a deep learning–based handwritten digit recognition system built using Python and TensorFlow. The model is trained on the MNIST dataset and can accurately predict digits (0–9) from grayscale images. A simple web-based user interface allows users to upload handwritten digit images and receive instant predictions.
 
 ---
 
-Key Features
+>Key Features
 
     Trained a Convolutional Neural Network (CNN) for digit classification
 
@@ -18,7 +18,7 @@ Key Features
 
 ---
 
-Tech Stack
+>Tech Stack
 
     Language: Python
 
